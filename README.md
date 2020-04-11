@@ -1,4 +1,7 @@
 # GagaPython
+
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StarwolfDancingWithHisPack/GagaPython/GettingStarted?urlpath=tree/BeyondExcel/SimpleExample.ipynb)
+
 Fun project for regular people;o) i.e. people without programming, computer science or engineering background. [Gaga](https://www.duden.de/rechtschreibung/gaga_nicht_recht_bei_Verstand) means for me nicely crazy, fun ...
 
 ## Spoiler
