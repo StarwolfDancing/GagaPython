@@ -5,7 +5,7 @@ Fun project for regular people;o) i.e. people without programming, computer scie
 Since this is a fun project, I will add stuff irregularly.
 
 ## Introduction
-To learn something new, I like to start with a personal topic and learn the necessary tool on my way. You find a cool example in chapter 1 of [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/thinkstats2002.html) by ``Allen B. Downey``.
+To learn something new, I like to start with a personal topic and learn the necessary tool on my way. You find a cool example in chapter 1 of [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/thinkstats2002.html) by [Allen B. Downey](https://en.wikipedia.org/wiki/Allen_B._Downey).
 
 To dig into specific programming topic, e.g. [Markdown](https://en.wikipedia.org/wiki/Markdown), I create small files, e.g. ``OnMarkdown.md``, to familiarise myself with the topic. 
 
