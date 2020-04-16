@@ -21,8 +21,6 @@ To start with Python, Jupyter ..., you should check out [Project Jupyter | Try J
 This tutorial is based on the following projects
 - [Python](https://www.python.org)
 - [Jupyter](https://jupyter.org)
-- [Pandas](https://pandas.pydata.org)
-- [Matplotlib](https://matplotlib.org)
-- [Python Excel](http://www.python-excel.org)
+- [Pandas](https://pandas.pydata.org) ([Matplotlib](https://matplotlib.org), [Python Excel](http://www.python-excel.org))
 - [GitHub](https://github.com)
 - [Binder](https://mybinder.org)
