@@ -3,18 +3,8 @@
 Click here 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StarwolfDancingWithHisPack/GagaPython/master?urlpath=lab/tree/index.ipynb) to start.
 
-Fun project for regular people;o) i.e. people without programming, computer science or engineering background. [Gaga](https://www.duden.de/rechtschreibung/gaga_nicht_recht_bei_Verstand) means for me nicely crazy, fun ... It is an attempt to interest some of my friends in Python and to have some fun;o). If you know Python, Jupyter, pandas already, you might be interested in this [pandas tutorial](https://github.com/jorisvandenbossche/pandas-tutorial/blob/master/README.md).
-
 ## Spoiler
 Since this is a fun project, I will add stuff **irregularly**.
-
-## Introduction
-To learn something new, I like to start with a personal topic and learn the necessary tool on my way. You find a cool example in chapter 1 of [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/thinkstats2002.html) by [Allen B. Downey](https://en.wikipedia.org/wiki/Allen_B._Downey).
-
-To dig into specific programming topic, e.g. [Markdown](https://en.wikipedia.org/wiki/Markdown), I create small files, e.g. `OnMarkdown.md`, to familiarise myself with the topic. 
-
-## Getting Started
-To start with Python, Jupyter ..., you should check out [Project Jupyter | Try Jupyter](https://jupyter.org/try) as a blank playground.
 
 ## What is ...?
 - [GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5Ehttps://www.youtube.com/watch?v=w3jLJU7DT5E)
