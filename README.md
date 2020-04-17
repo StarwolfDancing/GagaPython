@@ -1,8 +1,7 @@
 # GagaPython
 
 Click here 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StarwolfDancingWithHisPack/GagaPython/master?urlpath=lab) 
-and start with `index.ipynb`
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StarwolfDancingWithHisPack/GagaPython/master?urlpath=lab/tree/index.ipynb) to start.
 
 Fun project for regular people;o) i.e. people without programming, computer science or engineering background. [Gaga](https://www.duden.de/rechtschreibung/gaga_nicht_recht_bei_Verstand) means for me nicely crazy, fun ... It is an attempt to interest some of my friends in Python and to have some fun;o). If you know Python, Jupyter, pandas already, you might be interested in this [pandas tutorial](https://github.com/jorisvandenbossche/pandas-tutorial/blob/master/README.md).
 
