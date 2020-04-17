@@ -15,7 +15,11 @@ To learn something new, I like to start with a personal topic and learn the nece
 To dig into specific programming topic, e.g. [Markdown](https://en.wikipedia.org/wiki/Markdown), I create small files, e.g. `OnMarkdown.md`, to familiarise myself with the topic. 
 
 ## Getting Started
-To start with Python, Jupyter ..., you should check out [Project Jupyter | Try Jupyter](https://jupyter.org/try) as a blank playground. 
+To start with Python, Jupyter ..., you should check out [Project Jupyter | Try Jupyter](https://jupyter.org/try) as a blank playground.
+
+## What is ...?
+- [GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5Ehttps://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [BinderHub](https://binderhub.readthedocs.io/en/latest/overview.html#a-diagram-of-the-binderhub-architecture)
 
 ## Thanks
 This tutorial is based on the following projects
